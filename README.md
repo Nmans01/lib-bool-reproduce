@@ -1,5 +1,7 @@
 # lib-bool-reproduce
 
+> Reproduces an error in which a database entry fails to be added to a libsql db, presumably due to having a boolean column.
+
 To install dependencies:
 
 ```bash
